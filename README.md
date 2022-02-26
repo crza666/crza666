@@ -1,3 +1,3 @@
-- System Admin
-- Service Tech
+- System Administrator
+- Service Technician
 - Scripting & Coding
